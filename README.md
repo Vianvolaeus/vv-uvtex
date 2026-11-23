@@ -6,6 +6,10 @@ Download `.sbsar` and/or preset textures from [releases](https://github.com/Vian
 
 ---
 
+https://github.com/user-attachments/assets/1dc7f311-ed46-429c-8c3d-0a2e3ec2225c
+
+---
+
 ## Texture features
 
 ![Texture features overview](https://raw.githubusercontent.com/Vianvolaeus/vv-uvtex/readme/vv-uvtex-anatomy-1.jpg)
