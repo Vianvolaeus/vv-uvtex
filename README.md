@@ -2,7 +2,7 @@
 
 UV texture creator built in Substance Designer.
 
-Download `.sbsar` and/or preset textures from [releases]((https://github.com/Vianvolaeus/vv-uvtex/releases))
+Download `.sbsar` and/or preset textures from [releases](https://github.com/Vianvolaeus/vv-uvtex/releases)
 
 ---
 
