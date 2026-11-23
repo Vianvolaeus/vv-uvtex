@@ -6,7 +6,9 @@ Download `.sbsar` and/or preset textures from [releases](https://github.com/Vian
 
 ---
 
-![VV UVTex Creator](https://raw.githubusercontent.com/Vianvolaeus/vv-uvtex/readme/vv-uvtex-creator.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vianvolaeus/vv-uvtex/readme/vv-uvtex-creator.gif" alt="VV UVTex Creator" />
+</p>
 
 ---
 
